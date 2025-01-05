@@ -1,7 +1,3 @@
-Here’s a structured **README** file for your task:
-
----
-
 # Block Boom Recruitment Task: Movie Management System
 
 This project implements a terminal-based **Movie Management System** using **Object-Oriented Programming (OOP)** concepts in C++. The system allows interaction for two user roles: **Manager** and **Customer**, with distinct features and operations for each role.
@@ -32,7 +28,7 @@ This project implements a terminal-based **Movie Management System** using **Obj
 
 - **Terminal Interaction**: Designed for seamless interaction through the terminal.
 
----
+
 
 ## **How to Use**
 1. Clone the repository:
@@ -52,7 +48,7 @@ This project implements a terminal-based **Movie Management System** using **Obj
    ./movie_system
    ```
 
----
+
 
 ## **User Instructions**
 ### **Login**:
@@ -79,10 +75,9 @@ This project implements a terminal-based **Movie Management System** using **Obj
   5. Cancel a booked ticket by providing the movie ID.
   6. Logout to exit the session.
 
----
 
 ## **Author**
 **Hrushikesh Roop Avvari**  
 
---- 
+
 
